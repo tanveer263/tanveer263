@@ -9,5 +9,4 @@
 - 💬 Ask me about  anything related to Tech and Non-tech 
 - 📫 How to reach me: ...[LinkedIn](https://www.linkedin.com/in/tanver-ali-16a331180/), [Quora](https://www.quora.com/profile/Tanveer-Ali-55), [YouTobe](https://www.youtube.com/channel/UCCU4l2KF8hvw3U8ufKXUjtA)
 - 😄 Pronouns:He/Him
-- ⚡ Fun fact: Dreaming in black and white.
--->
+- ⚡ Fun fact: Dreaming in black and white
