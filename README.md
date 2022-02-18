@@ -12,9 +12,6 @@
   <img align="left" alt="Tanver's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
 <br />
 
 hi, i'm [Tanver  Ali](http://tanveer263.github.io), a passionate salesforce developer and a software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
@@ -43,32 +40,31 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-Total: 24 hrs 10 mins
+Total: 18 hrs 7 mins
 
-JavaScript   16 hrs 34 mins  █████████████████░░░░░░░░   68.57 % 
-TypeScript   4 hrs 59 mins   █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
-SCSS         1 hr 44 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-CSS          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-Markdown     14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+JavaScript   2 hrs 34 mins  █████████████████░░░░░░░░   
+Salesforce    10 hrs 59 mins   █████░░░░░░░░░░░░░░░░░░░░    
+HTML         1 hr 44 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░  
+CSS          50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░    
+LWC         2hrs mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░  
 ```
 <!--END_SECTION:waka-->
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/tanveerali" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
+<!-- TODO-IST:START -->        
 🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
+✅  Completed 25 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tanveer263&show_icons=true&theme=gotham" alt="tanveer263" />
 
 
 
