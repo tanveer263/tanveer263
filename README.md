@@ -1,5 +1,5 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.instagram.com/abhishknads/">
+<a href="https://www.instagram.com/tanvee.r_ali/">
   <img align="left" alt="Tanver's Instagram" width="22px" src="https://www.instagram.com/tanvee.r_ali/" />
 </a>
 <a href="https://discord.gg/XTW52Kt">
