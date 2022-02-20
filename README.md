@@ -5,24 +5,34 @@
 </div>
 
 <h2>:busts_in_silhouette: How to reach me</h2><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+<a href="https://www.hackerrank.com/nitmtanveercse09">
+  <img align="left" alt="Tanver's Hackerrank" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/900px-HackerRank_Icon-1000px.png?20200508182226" />
+</a>
+<a href="https://www.linkedin.com/in/tanver-ali-16a331180/">
+  <img align="left" alt="Tanver's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://leetcode.com/spy_ali/">
+  <img align="left" alt="Tanver ALi | Leetcode" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/687px-LeetCode_Logo_black_with_text.svg.png?20200122084501" />
+</a>
 <a href="https://www.instagram.com/tanvee.r_ali/">
   <img align="left" alt="Tanver's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100027535043615">
   <img align="left" alt="Tanver's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
+<a href="https://medium.com/@nitmtanveercse019">
+  <img align="left" alt="Tanver's Medium" width="22px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670068.png?token=exp=1645348023~hmac=6c3d480aca32510e38529fbdd9b106a0" />
+</a>
 <a href="https://twitter.com/Tanveer11130045">
   <img align="left" alt="Tanver ALi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/tanver-ali-16a331180/">
-  <img align="left" alt="Tanver's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://auth.geeksforgeeks.org/user/anonymous_007/profile">
+  <img align="left" alt="Tanver ALi | GfG" width="22px" src="https://media.geeksforgeeks.org/wp-content/uploads/20210224040124/JSBinCollaborativeJavaScriptDebugging6-300x160.png" />
 </a>
 <a href="https://www.quora.com/profile/Tanver-Ali-3/">
   <img align="left" alt="Tanver's Quora" width="22px" src="https://i.pinimg.com/736x/16/a0/24/16a024eb74b07765238f1d856ca692e4.jpg" />
 </a>
-<a href="https://medium.com/@nitmtanveercse019">
-  <img align="left" alt="Tanver's Medium" width="22px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670068.png?token=exp=1645348023~hmac=6c3d480aca32510e38529fbdd9b106a0" />
-</a>
+
 <a href="https://discord.gg/jHDAegHY">
   <img align="left" alt="Tanver's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
