@@ -44,7 +44,7 @@ Hi, i'm [Tanver  Ali](http://tanveer263.github.io), a passionate salesforce deve
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+   <!--  I will update my own gif here -->
   
 - 💼 any work related? do reach, [email](mailto:tanver.ali@nttdata.com) :)
 - 💬 ask me about anything, i am happy to help;
