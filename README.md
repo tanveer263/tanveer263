@@ -20,7 +20,7 @@
   <img align="left" alt="Tanver's Discord" width="22px" src="https://i.pinimg.com/736x/16/a0/24/16a024eb74b07765238f1d856ca692e4.jpg" />
 </a>
 <a href="https://medium.com/@nitmtanveercse019">
-  <img align="left" alt="Tanver's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/medium.svg" />
+  <img align="left" alt="Tanver's Discord" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968933.png" />
 </a>
 <a href="https://discord.gg/jHDAegHY">
   <img align="left" alt="Tanver's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
