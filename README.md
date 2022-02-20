@@ -3,6 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Tanver+Ali....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+<h2>:busts_in_silhouette: How to reach me</h2>
 <a href="https://www.instagram.com/tanvee.r_ali/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
