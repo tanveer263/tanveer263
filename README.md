@@ -17,7 +17,7 @@
   <img align="left" alt="Tanver's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.quora.com/profile/Tanver-Ali-3/">
-  <img align="left" alt="Tanver's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/quora.svg" />
+  <img align="left" alt="Tanver's Discord" width="22px" src="https://i.pinimg.com/736x/16/a0/24/16a024eb74b07765238f1d856ca692e4.jpg" />
 </a>
 <a href="https://medium.com/@nitmtanveercse019">
   <img align="left" alt="Tanver's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/medium.svg" />
