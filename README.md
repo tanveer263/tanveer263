@@ -1,7 +1,7 @@
 <div id="top"></div>
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Tanver;Computer+Engineering+Student;Indian+Salesforce+Developer;Nice+To+Meet+You;" alt="Computer Engineering Student, Indian Salesforce developer, Power Metal lover"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Tanver+Ali;Software+Engineer;Indian+Salesforce+Developer;Nice+To+Meet+You;" alt="Software Engineer, Indian Salesforce developer, Nice To Meet You"></a>
 </div>
 
 <h2>:busts_in_silhouette: How to reach me</h2><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
