@@ -17,10 +17,10 @@
   <img align="left" alt="Tanver's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.quora.com/profile/Tanver-Ali-3/">
-  <img align="left" alt="Tanver's Discord" width="22px" src="https://i.pinimg.com/736x/16/a0/24/16a024eb74b07765238f1d856ca692e4.jpg" />
+  <img align="left" alt="Tanver's Quora" width="22px" src="https://i.pinimg.com/736x/16/a0/24/16a024eb74b07765238f1d856ca692e4.jpg" />
 </a>
 <a href="https://medium.com/@nitmtanveercse019">
-  <img align="left" alt="Tanver's Discord" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968933.png" />
+  <img align="left" alt="Tanver's Medium" width="22px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670068.png?token=exp=1645348023~hmac=6c3d480aca32510e38529fbdd9b106a0" />
 </a>
 <a href="https://discord.gg/jHDAegHY">
   <img align="left" alt="Tanver's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
