@@ -1,9 +1,10 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Tanver+Ali....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
-<h2>:busts_in_silhouette: How to reach me</h2>
+<div id="top"></div>
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Tanver;Computer+Engineering+Student;Indian+Salesforce+Developer;Nice+To+Meet+You;" alt="Computer Engineering Student, Indian Salesforce developer, Power Metal lover"></a>
+</div>
+
+<h2>:busts_in_silhouette: How to reach me</h2><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 <a href="https://www.instagram.com/tanvee.r_ali/">
   <img align="left" alt="Tanver's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -27,7 +28,7 @@
 </a>
 
 <br />
-
+<h2>:man_technologist: About me</h2>
 Hi, i'm [Tanver  Ali](http://tanveer263.github.io), a passionate salesforce developer and a software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
