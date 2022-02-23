@@ -21,25 +21,25 @@
   <img align="left" alt="Tanver's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 <a href="https://medium.com/@nitmtanveercse019">
-  <img align="left" alt="Tanver's Medium" width="22px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670068.png?token=exp=1645348023~hmac=6c3d480aca32510e38529fbdd9b106a0" />
+  <img align="left" alt="Tanver's Medium" width="22px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670068.png?token=exp=1645348023~hmac=6c3d480aca32510e38529fbdd9b106a0"/>
 </a>
 <a href="https://twitter.com/Tanveer11130045">
-  <img align="left" alt="Tanver ALi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Tanver ALi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>
 </a>
 <a href="https://auth.geeksforgeeks.org/user/anonymous_007/profile">
-  <img align="left" alt="Tanver ALi | GfG" width="22px" src="https://media.geeksforgeeks.org/wp-content/uploads/20210224040124/JSBinCollaborativeJavaScriptDebugging6-300x160.png" />
+  <img align="left" alt="Tanver ALi | GfG" width="22px" src="https://media.geeksforgeeks.org/wp-content/uploads/20210224040124/JSBinCollaborativeJavaScriptDebugging6-300x160.png"/>
 </a>
 <a href="https://www.quora.com/profile/Tanver-Ali-3/">
-  <img align="left" alt="Tanver's Quora" width="22px" src="https://i.pinimg.com/736x/16/a0/24/16a024eb74b07765238f1d856ca692e4.jpg" />
+  <img align="left" alt="Tanver's Quora" width="22px" src="https://i.pinimg.com/736x/16/a0/24/16a024eb74b07765238f1d856ca692e4.jpg"/>
 </a>
 
 <a href="https://discord.gg/jHDAegHY">
-  <img align="left" alt="Tanver's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Tanver's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"/>
 </a>
 
 <br />
 <h1>:man_technologist: About me</h1>
-Hi, I'm [Tanver  Ali](http://tanveer263.github.io), a passionate salesforce developer and a software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Tanver  Ali, a passionate salesforce developer and a software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
