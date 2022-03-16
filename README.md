@@ -17,12 +17,7 @@
 <a href="https://www.instagram.com/tanvee.r_ali/">
   <img align="left" alt="Tanver's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://www.facebook.com/profile.php?id=100027535043615">
-  <img align="left" alt="Tanver's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
-<a href="https://medium.com/@nitmtanveercse019">
-  <img align="left" alt="Tanver's Medium" width="22px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670068.png?token=exp=1645348023~hmac=6c3d480aca32510e38529fbdd9b106a0"/>
-</a>
+
 <a href="https://twitter.com/Tanveer11130045">
   <img align="left" alt="Tanver ALi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>
 </a>
